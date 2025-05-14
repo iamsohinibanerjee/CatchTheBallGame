@@ -33,6 +33,15 @@ A simple and fun Java Swing-based game where the player must catch a falling bal
 
 ---
 
+## 🏁 Future Enhancements
+
+- Add sound effects  
+- Multiple ball levels  
+- Difficulty modes  
+- Score saving system
+
+---
+
 ## 🧑‍💻 Author
 
 - **Sohini Banerjee**
